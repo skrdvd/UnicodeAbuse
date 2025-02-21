@@ -132,4 +132,4 @@ USE AT YOUR OWN RISK.
 
 ## License
 
-MIT License
+Apache License
