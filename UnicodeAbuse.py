@@ -44,7 +44,7 @@ class UnicodeAbuse:
         try:
             if not bytes_list:
                 raise ValueError("Bytes list cannot be empty")
-            # Placeholder - will implement actual conversion later
+
             encoded_list = []
             for b in bytes_list:
                 if b < 16:
